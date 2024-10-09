@@ -1,0 +1,30 @@
+/* style.css */
+.ai-assistant-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.ai-assistant-icon:hover {
+  opacity: 1;
+}
+
+.ai-assistant-icon.hidden {
+  display: none;
+}
+
+#ai-assistant-modal-root {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10000;
+}
