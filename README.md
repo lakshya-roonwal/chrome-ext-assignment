@@ -3,10 +3,10 @@
 ## Project Demo
 
 Below is a short video demonstrating all tasks (1 to 7) as required by the assignment:
+https://github.com/user-attachments/assets/61e215c2-9f51-4b0c-a13a-6bd21b965fc8
 
-<video src="demo.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+
+
 
 ## Installation
 
